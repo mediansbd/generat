@@ -1,0 +1,2 @@
+# generat
+safelinkku generator
